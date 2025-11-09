@@ -11,16 +11,16 @@ import { chromium } from 'playwright';
  * ];
  */
 const urls = [
-  'https://example.com/seed44',
-  'https://example.com/seed45',
-  'https://example.com/seed46',
-  'https://example.com/seed47',
-  'https://example.com/seed48',
-  'https://example.com/seed49',
-  'https://example.com/seed50',
-  'https://example.com/seed51',
-  'https://example.com/seed52',
-  'https://example.com/seed53'
+  'https://sanand0.github.io/tdsdata/js_table/?seed=44',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=45',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=46',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=47',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=48',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=49',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=50',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=51',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=52',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=53'
 ];
 
 function parseNumberFromString(s) {
